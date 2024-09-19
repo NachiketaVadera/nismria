@@ -1,0 +1,1362 @@
+### **1. Equity as an Investment**
+   - **Definition**: Equity represents ownership in a company and provides investors with residual claims on profits (dividends) and the right to vote in company affairs.
+   - **Primary Benefits**:
+     - **Capital Appreciation**: Increase in stock price over time.
+     - **Dividend Income**: Periodic payments to shareholders from company profits.
+   - **Trade-off**: Higher potential returns than debt investments but with more risk. Investors choose equity for higher returns, accepting the associated risks.
+
+### **2. Types of Equity**
+   - **Common Shares**: Ownership shares with voting rights. These holders get dividends and capital appreciation but are last in line for claims on assets in the event of liquidation.
+   - **Preference Shares**: Shares that rank above common equity in terms of dividends and asset distribution but usually do not carry voting rights. Can be:
+     - **Convertible**: Can be converted into common shares.
+     - **Cumulative/Non-Cumulative**: Accumulation or non-accumulation of unpaid dividends.
+     - **Participating/Non-Participating**: Additional dividends based on certain conditions.
+
+### **3. Risks of Equity Investments**
+   - **Market Risk**: Stock prices fluctuate due to overall market dynamics. This is measured by a stock’s **Beta**, which shows the stock’s volatility relative to the market.
+   - **Sector-Specific Risk**: Risk specific to certain industries or sectors. Diversifiable by investing in multiple sectors.
+   - **Company-Specific Risk**: Risk that affects only one company, such as poor management or bad earnings reports. Also diversifiable.
+   - **Transactional Risk**: Risks related to the fulfillment of buy/sell contracts.
+   - **Liquidity Risk**: Risk of not being able to sell the stock without a significant price reduction.
+   - **Currency Risk**: Arises due to international investments or exposure to foreign markets.
+
+### **4. Diversification to Mitigate Risk**
+   - **Cross-Sectional Diversification**: Investing across different sectors and geographic regions to spread risk.
+   - **Time Diversification**: Investing over longer time periods to ride out market volatility.
+
+### **5. Overview of Equity Markets**
+   - **Listed Companies**: Companies whose shares are traded on stock exchanges, providing greater liquidity and transparency due to regulatory requirements.
+   - **Unlisted Companies**: Typically less liquid and involve more risk due to fewer regulations.
+
+### **6. Stock Valuation and Research**
+   - **Relative Valuation**: Compares a company's stock to peers or market indices using ratios like Price-to-Earnings (P/E), Price-to-Book (P/B), or Dividend Yield.
+   - **Discounted Cash Flow (DCF)**: A valuation method using projected future cash flows and discounting them back to the present to determine the stock’s intrinsic value.
+
+### **7. Technical Analysis**
+   - **Price and Volume Data**: Uses historical data to predict future price movements. Techniques include:
+     - **Moving Averages**: Shows the average stock price over a specific period (e.g., 50-day, 200-day moving average).
+     - **Bollinger Bands**: Uses statistical methods (standard deviation) to identify whether a stock is overbought or oversold.
+     - **Support and Resistance Levels**: Identifies price points where stock movement may reverse.
+
+### **8. Qualitative Stock Evaluation**
+   - **Corporate Governance**: Evaluating the company’s leadership, transparency, and ethics.
+   - **Board of Directors**: Focus on qualifications and actions of independent directors.
+   - **Sustainability Practices**: Includes aspects like environmental and social responsibility, which are increasingly important in stock evaluation.
+
+
+---
+
+pcon
+
+## **1. Asset Allocation Decision**
+   - **Definition**: Asset allocation is the process of distributing an investor's wealth across different asset classes like stocks, bonds, and cash, aiming to optimize risk and return based on the investor's goals and risk tolerance.
+   - **Importance**: Long-term asset allocation decision heavily influences the performance of the portfolio.
+   
+### **2. Understanding Correlation Across Asset Classes and Securities**
+   - **Correlation** measures how asset classes move in relation to each other.
+   - Correlation coefficients range from -1 to +1:
+     - +1 means perfect positive correlation (both move together).
+     - -1 means perfect negative correlation (move in opposite directions).
+   - Low or negative correlation between assets leads to better diversification.
+
+### **3. Steps in the Portfolio Construction Process**
+   - **Step 1**: **Developing Investment Policy Statement (IPS)**: A document outlining the investor’s risk tolerance, goals, and constraints.
+   - **Step 2**: **Analyzing Financial Conditions**: Understanding current financial conditions and forecasting future trends.
+   - **Step 3**: **Constructing the Portfolio**: Selecting assets based on policy and market trends.
+   - **Step 4**: **Performance Evaluation**: Monitoring and rebalancing the portfolio as needed.
+
+### **4. Investment Policy Statement (IPS)**
+   - A road map that specifies the investor’s objectives, risk tolerance, and constraints.
+   - Should be updated periodically based on changing investor needs.
+
+### **5. Investment Objectives**
+   - Investors typically have objectives related to **risk, return, and liquidity**:
+     - **Risk**: Measured by volatility and standard deviation of returns.
+     - **Return**: Can be stated as an absolute number or relative to benchmarks.
+     - **Liquidity**: The ease of converting assets to cash.
+
+### **6. Investment Constraints**
+   - These are limitations or restrictions that must be considered in the portfolio, such as:
+     - **Time Horizon**: Long-term vs. short-term investments.
+     - **Tax Considerations**: Investment decisions should account for the investor’s tax situation.
+     - **Legal & Regulatory Issues**: Some investors are subject to specific laws.
+     - **Unique Needs**: Any specific preferences or exclusions (e.g., avoiding certain asset classes).
+
+### **7. Exposure Limits to Sectors, Entities, and Asset Classes**
+   - To manage risk, portfolios often have exposure limits, ensuring diversification and avoiding concentration in any one sector or asset class.
+
+### **8. Psychographic Analysis of Investor**
+   - Investor behavior is influenced by their psychology. Psychographic analysis helps identify the investor’s risk tolerance and behavioral biases.
+
+### **9. Life Cycle Analysis**
+   - The portfolio should be aligned with the different life stages of the investor:
+     - **Accumulation Phase**: Focus on growth, typically a higher allocation in equities.
+     - **Consolidation Phase**: Balance growth with stability, a mix of equities and bonds.
+     - **Spending Phase**: Preservation of capital, focus on income-generating assets like bonds or dividend stocks.
+     - **Gifting Phase**: Focus on leaving a legacy or charitable giving.
+
+### **10. Forecasting Risk and Return of Various Asset Classes**
+   - Historical data is used to estimate the risk (volatility) and return of asset classes, helping to build realistic expectations for future performance.
+
+### **11. Benchmarking the Client’s Portfolio**
+   - **Benchmarking** is comparing the portfolio's performance against an appropriate market index (e.g., NIFTY 50 for large-cap stocks).
+   - **Selection of Benchmarks**: Must align with the type of investments in the portfolio, such as a bond index for debt portfolios.
+
+### **12. Asset Allocation Decision**
+   - The portfolio manager must decide on the mix of assets based on the investor’s risk tolerance, return expectations, and liquidity needs.
+   - **Strategic Asset Allocation (SAA)**: A long-term, target allocation based on the IPS.
+   - **Tactical Asset Allocation (TAA)**: Short-term changes to take advantage of market conditions.
+
+### **13. Portfolio Construction Principles**
+   - **Equity Portfolios**: A mix of large-cap for stability and small/mid-cap for higher returns.
+   - **Debt Portfolios**: Focused on generating steady cash flow, using a mix of short-term and long-term instruments.
+   - **Hybrid Portfolios**: Combining equities and debt for a balanced risk-return profile.
+   - **Other Portfolios**: May include alternative assets like gold or real estate for diversification.
+
+### **14. Rebalancing of Portfolio**
+   - **Rebalancing** involves adjusting the portfolio periodically to maintain the desired asset allocation.
+   - It is done to keep the portfolio aligned with the investor's risk tolerance and investment objectives, especially after market movements.
+
+
+---
+
+FIS
+
+### **Key Terms:**
+1. **Fixed Income Securities**: Debt instruments that provide regular interest (coupon) payments and return the principal at maturity.
+2. **Issuer**: The entity that issues the debt instrument.
+3. **Coupon Rate**: The interest rate the bond pays annually as a percentage of its face value.
+4. **Par/Face Value**: The nominal value of the bond, repaid at maturity.
+5. **Maturity**: The date when the bond’s principal is repaid.
+
+### **Types of Bonds:**
+1. **Fixed-Rate Bonds**: Bonds with a constant interest rate throughout their life.
+2. **Floating Rate Bonds (FRBs)**: Bonds with a variable interest rate linked to a benchmark.
+3. **Zero-Coupon Bonds (ZCBs)**: Bonds sold at a discount and redeemed at face value at maturity.
+4. **Convertible Bonds**: Bonds that can be converted into shares of the issuing company.
+5. **Callable Bonds**: Bonds that the issuer can repay before maturity.
+6. **Puttable Bonds**: Bonds that allow bondholders to sell them back to the issuer.
+7. **Inflation-Indexed Bonds (IIBs)**: Bonds that adjust for inflation to protect the principal and coupon payments.
+
+### **Risks Associated with Fixed Income Securities:**
+1. **Interest Rate Risk**: The risk of bond prices decreasing due to rising interest rates.
+2. **Credit Risk/Default Risk**: The risk that the issuer may default on interest payments or principal repayment.
+3. **Reinvestment Risk**: The risk of having to reinvest coupon payments at lower interest rates.
+4. **Call Risk**: The risk that a bond will be called (repaid early) by the issuer.
+5. **Liquidity Risk**: The risk that the bond cannot be sold quickly without a price concession.
+6. **Inflation Risk**: The risk that inflation erodes the purchasing power of the bond's returns.
+7. **Event Risk**: The risk of unforeseen events negatively affecting the bond’s value.
+
+### **Bond Pricing and Formulas:**
+
+1. **Bond Price (Present Value of a Bond)**:
+   Add the present value of all future coupon payments and the face value discounted at the market interest rate.
+
+   Formula:  
+   Bond Price = sum of (Coupon Payment / (1 + interest rate)^t) + (Face Value / (1 + interest rate)^n)  
+   Where:  
+   - Coupon Payment = periodic interest payment  
+   - t = time period for each coupon payment  
+   - Face Value = bond's principal repayment amount  
+   - n = number of periods  
+   - interest rate = market interest rate per period
+
+2. **Yield to Maturity (YTM)**:  
+   The rate of return expected if the bond is held until maturity, considering all coupon payments and price differences.
+
+3. **Coupon Yield**:  
+   Coupon Yield = Coupon Payment / Face Value
+
+4. **Current Yield**:  
+   Current Yield = Coupon Payment / Current Price of the Bond
+
+5. **Future Value of a Bond**:
+   Future Value = Present Value * (1 + interest rate)^n  
+   Where:  
+   - Present Value = Current price of the bond  
+   - interest rate = expected rate of return per period  
+   - n = number of periods
+
+### **Other Key Fixed Income Securities and Features:**
+
+1. **Treasury Bills (T-Bills)**:  
+   Short-term government securities with maturities of 91, 182, or 364 days. Issued at a discount and redeemed at face value.
+
+2. **State Development Loans (SDLs)**:  
+   Bonds issued by state governments, paying periodic coupons.
+
+3. **Commercial Papers (CPs)**:  
+   Short-term, unsecured debt issued by companies to meet working capital needs.
+
+4. **Certificate of Deposit (CD)**:  
+   Fixed-term deposits issued by banks and financial institutions with a set interest rate.
+
+5. **Credit Rating**:  
+   Credit ratings help assess the creditworthiness of bond issuers, with ratings like AAA (highest safety) to D (in default).
+
+6. **Credit Spread**:  
+   The difference between the yield of a corporate bond and a government bond of the same maturity, representing the default risk premium.
+
+---
+
+This version should now reflect a clear, simple format with formulas and definitions in plain text.
+
+---
+
+eval
+
+It looks like the cheat sheet covers the essential ratios and concepts, but here are some additional points from Chapter 3 that should also be included for a more comprehensive overview:
+
+RATIOS
+Financial Ratios for Evaluating Clients’ Position
+Savings Ratio:
+
+Formula: Savings per year ÷ Annual Income
+Example: If annual savings are Rs. 60,000, and annual income is Rs. 6,00,000, the savings ratio is Rs. 60,000 ÷ Rs. 6,00,000 = 10%.
+Expenses Ratio:
+
+Formula: Annual Recurring Expenses ÷ Annual Income
+Alternatively, it can be calculated as 
+1
+−
+Savings Ratio
+1−Savings Ratio.
+Example: If expenses are Rs. 5,40,000 and annual income is Rs. 6,00,000, the expense ratio is Rs. 5,40,000 ÷ Rs. 6,00,000 = 90%.
+Leverage Ratio:
+
+Formula: Total Liabilities ÷ Total Assets
+Example: If liabilities are Rs. 13 lakhs and total assets are Rs. 65 lakhs, the leverage ratio is Rs. 13 lakhs ÷ Rs. 65 lakhs = 20%.
+Higher leverage indicates higher financial risk.
+Net Worth:
+
+Formula: Total Assets - Total Liabilities
+Example: If assets total Rs. 65 lakhs and liabilities total Rs. 13 lakhs, net worth is Rs. 65 lakhs - Rs. 13 lakhs = Rs. 52 lakhs.
+Solvency Ratio:
+
+Formula: Net Worth ÷ Total Assets
+Alternatively, it can be calculated as 
+1
+−
+Leverage Ratio
+1−Leverage Ratio.
+Example: If net worth is Rs. 52 lakhs and total assets are Rs. 65 lakhs, the solvency ratio is Rs. 52 lakhs ÷ Rs. 65 lakhs = 80%.
+Higher solvency ratio indicates better financial health.
+Liquidity Ratio:
+
+Formula: Liquid Assets ÷ Monthly Expenses
+Example: If liquid assets are Rs. 6 lakhs and monthly expenses are Rs. 1.5 lakhs, liquidity ratio is Rs. 6 lakhs ÷ Rs. 1.5 lakhs = 4.
+A ratio of 4 to 6 is ideal to cover expenses for 4-6 months in case of a loss of income.
+
+
+### **Additional Concepts to Include**
+
+1. **Forecasting and Monitoring:**
+   - After setting up a budget, it's important to regularly monitor the actual cash flows and compare them to the forecasted budget.
+   - Formula for variance:  
+     \[ \text{Variance} = \text{Actual Value} - \text{Budgeted Value} \]
+   - A positive variance indicates surplus savings, while a negative variance shows overspending.
+
+2. **Contingency Planning:**
+   - A good financial plan must include contingency savings (usually 3-6 months of expenses) for unforeseen situations like job loss or medical emergencies.
+   - To calculate the contingency fund:
+     \[ \text{Contingency Fund Required} = \text{Monthly Expenses} \times 6 \]  
+     (for a 6-month fund).
+
+3. **Creating a Personal Balance Sheet:**
+   - The balance sheet shows the net worth by listing assets and liabilities.
+   - It should be updated periodically to reflect changes in assets (e.g., investments) and liabilities (e.g., loans).
+   - **Assets** include cash, investments, properties, and other valuables.
+   - **Liabilities** include debts such as home loans, credit card balances, and personal loans.
+
+4. **Budgeting for Future Goals:**
+   - Future financial goals, such as education, buying a house, or retirement, should be factored into the savings plan.
+   - The savings required for future goals can be calculated using:
+     \[ \text{Future Value (FV)} = \text{Present Value (PV)} \times (1 + r)^n \]
+     where:
+     - \( r \) = expected return rate
+     - \( n \) = number of periods
+
+5. **Debt Management and Debt Servicing Ratio:**
+   - Formula:  
+     \[ \text{Debt Servicing Ratio} = \text{Total Monthly Debt Payments} \div \text{Monthly Gross Income} \]
+   - Ideally, this ratio should not exceed 30%-40% to maintain financial stability.
+
+6. **Savings Plan Formula:**
+   - To create a savings plan for a future expense (such as a car, house, or emergency fund):
+     \[ \text{Savings Needed per Month} = \frac{\text{Target Amount}}{n} \]
+     where \( n \) is the number of months left to reach the goal.
+
+---
+
+### **Comprehensive Overview Now Includes:**
+- Key financial ratios (savings, expenses, leverage, solvency, liquidity)
+- Forecasting and variance calculation
+- Contingency planning and budgeting for future goals
+- Debt management with debt servicing ratio
+- Personal balance sheet creation and monitoring
+
+
+---
+
+
+debt 
+
+#### 1. **Debt Overview**
+- **Debt**: Borrowed money that must be repaid with interest.
+- **Types**:
+  - **Secured Debt**: Backed by assets (e.g., home, car). Lower interest rates.
+  - **Unsecured Debt**: No collateral, higher risk for lenders, hence higher interest rates (e.g., credit card loans).
+
+#### 2. **Debt to Income Ratio (DTI)**
+- **Formula**:  
+  \[
+  \text{DTI} = \left(\frac{\text{Total Monthly Debt Payments}}{\text{Gross Monthly Income}}\right) \times 100
+  \]
+- **Ideal Range**: Below 35%-40%. Anything above increases financial risk.
+
+#### 3. **Types of Loans**
+- **Fixed-Rate Loan**: Interest rate remains the same throughout the term.
+- **Variable Rate Loan**: Interest changes based on market factors (e.g., repo rate, MCLR).
+
+---
+
+### **Loan Repayment and EMIs**
+
+#### 4. **Equated Monthly Installment (EMI)**
+- **EMI Formula**:
+  \[
+  EMI = \frac{P \times r \times (1 + r)^n}{(1 + r)^n - 1}
+  \]
+  - **P** = Principal loan amount
+  - **r** = Monthly interest rate (annual rate ÷ 12 ÷ 100)
+  - **n** = Loan tenure (in months)
+
+#### 5. **Components of EMI**
+- **Interest Component**: Higher in the initial stages, reduces over time.
+- **Principal Component**: Lower initially, increases as more principal is repaid.
+
+#### 6. **Breakdown of EMI**
+  - Use **IPMT** function in Excel to calculate interest in a specific period.
+  - Use **PPMT** function to calculate the principal repaid in a specific period.
+  
+#### Example Calculation:
+- Loan Amount = ₹10,00,000
+- Annual Interest Rate = 8% (Monthly Interest Rate = 0.08/12 = 0.00667)
+- Loan Tenure = 5 years (60 months)
+
+**EMI Calculation**:
+  \[
+  EMI = \frac{10,00,000 \times 0.00667 \times (1 + 0.00667)^{60}}{(1 + 0.00667)^{60} - 1} = ₹20,276
+  \]
+  
+---
+
+### **Interest and Loan Calculations**
+
+#### 7. **Present Value (PV) and Future Value (FV)**
+- **Present Value**:
+  \[
+  PV = \frac{FV}{(1 + r)^n}
+  \]
+  - **FV** = Future Value, **r** = Discount rate, **n** = Time period.
+  
+- **Future Value**:
+  \[
+  FV = PV \times (1 + r)^n
+  \]
+  
+#### 8. **Amortization Schedule**:
+- Shows how each payment is divided into interest and principal repayment over the loan tenure.
+  
+- **Interest Payment** (for a specific month):  
+  \[
+  \text{Interest Payment} = \text{Outstanding Principal} \times \text{Monthly Interest Rate}
+  \]
+  
+- **Principal Payment**:  
+  \[
+  \text{Principal Payment} = EMI - \text{Interest Payment}
+  \]
+  
+#### Example:
+  - Loan = ₹10,00,000
+  - EMI = ₹20,276
+  - Interest Rate = 8% per annum (Monthly = 0.00667)
+
+  For Month 1:
+  \[
+  \text{Interest Payment} = 10,00,000 \times 0.00667 = ₹6,670
+  \]
+  \[
+  \text{Principal Payment} = 20,276 - 6,670 = ₹13,606
+  \]
+
+---
+
+### **Loan Tenure Impact**
+- **Shorter Tenure**: Higher EMI but lower total interest paid.
+- **Longer Tenure**: Lower EMI but higher overall interest cost.
+  
+---
+
+### **Loan Prepayment and Refinancing**
+#### 9. **Prepayment Impact**:
+- Reduces the outstanding principal, which in turn reduces future interest payments.
+  
+- **Lump-sum Prepayment**: Reduces EMI or loan tenure.
+  - Formula to adjust EMI or tenure can vary depending on lender’s method.
+
+#### 10. **Prepayment Formula** (Excel-based):
+  - Use **NPER** function to calculate the revised tenure.
+  - Example:
+    - Loan = ₹5,00,000, EMI = ₹10,000, Interest Rate = 7%, Prepayment = ₹1,00,000.
+  
+#### 11. **Refinancing**:
+- Switching to a lower interest rate loan to reduce overall cost.
+- Refinancing is beneficial when the rate difference is significant and prepayment penalties are minimal.
+
+---
+
+### **Loan Restructuring**
+#### 12. **Loan Restructuring**:
+- Extending tenure or reducing EMI due to financial stress.
+- Example: When facing cash flow issues, restructuring can reduce the monthly EMI burden by extending the tenure, but the total interest cost increases.
+
+#### 13. **Change in EMI or Tenure due to Interest Rate Changes**
+- If the interest rate changes, you may opt for **lower EMI** or **shorter tenure**.
+  
+#### 14. **Impact of Rate Changes on EMI**:
+- Formula for new EMI:
+  \[
+  EMI = \frac{P \times r_{new} \times (1 + r_{new})^n}{(1 + r_{new})^n - 1}
+  \]
+  Where \( r_{new} \) is the new monthly interest rate after the change.
+
+---
+
+### **Debt Repayment Strategies**
+#### 15. **Avalanche Method**:
+- Pay off loans with the **highest interest rate** first while making minimum payments on others.
+
+#### 16. **Snowball Method**:
+- Pay off loans with the **smallest balance** first to gain momentum.
+
+---
+
+### **Case Study Examples**
+
+1. **Scenario**: A person has two loans:
+   - **Loan A**: ₹3,00,000 @ 12% interest, EMI ₹10,000 (remaining 3 years).
+   - **Loan B**: ₹2,00,000 @ 10% interest, EMI ₹8,000 (remaining 2 years).
+   
+   Using the **Avalanche Method**, the focus should be on paying off **Loan A** first since it has a higher interest rate.
+
+2. **Scenario**: A ₹5,00,000 home loan at 8% interest over 10 years. After 3 years, a prepayment of ₹1,00,000 is made. New EMI can be calculated using the adjusted principal.
+
+---
+
+### **Formulas for Quick Reference**
+
+- **EMI**:  
+  \[
+  EMI = \frac{P \times r \times (1 + r)^n}{(1 + r)^n - 1}
+  \]
+
+- **Present Value** (PV):  
+  \[
+  PV = \frac{FV}{(1 + r)^n}
+  \]
+
+- **Future Value** (FV):  
+  \[
+  FV = PV \times (1 + r)^n
+  \]
+
+- **Interest Payment (for a specific month)**:  
+  \[
+  \text{Interest Payment} = \text{Outstanding Principal} \times \text{Monthly Interest Rate}
+  \]
+
+- **Principal Payment**:  
+  \[
+  \text{Principal Payment} = EMI - \text{Interest Payment}
+  \]
+
+
+
+---
+
+
+PoA
+
+The concept of Power of Attorney (PoA) as described in the document allows individual investors to authorize someone else to manage transactions on their behalf. Here's a detailed breakdown:
+
+### Definition and Purpose:
+- **Power of Attorney (PoA)**: A legal document through which an investor (grantor) empowers another person (attorney/holder) to carry out specific actions on their behalf. This is commonly used by non-resident investors or those unable to manage their financial matters independently.
+- **Parties Involved**:
+  1. **Grantor**: The primary investor or account holder who gives authority to another person.
+  2. **Attorney/Holder**: The person authorized to perform the transactions on behalf of the grantor.
+
+### Scope of Authority:
+The attorney generally holds wide-ranging powers over the investment transactions, depending on the permissions granted. Typical rights include:
+- Purchase of securities.
+- Payment processing.
+- Sale and settlement of transactions.
+- Redemption of investments.
+
+However, the attorney cannot:
+- Appoint a nominee for investments.
+- Open or close accounts like a bank or demat account without the grantor’s involvement.
+
+### Legal Validity Requirements:
+For a Power of Attorney to be legally valid:
+1. It must be typed on **non-judicial stamp paper**.
+2. It must be **stamped** in accordance with the state regulations where it is executed.
+3. It requires the **grantor’s signature on every page** and both the grantor's and attorney’s signature on the last page.
+4. The PoA may need to be **notarized** by a notary public, although this requirement varies based on the type of transaction (for instance, mutual funds might require notarization while demat accounts may not, unless required by the depository participant).
+
+### Special Provisions:
+- **Execution Abroad**: If the PoA is executed outside India, it can be typed on plain paper, attested by the Indian embassy or a notary abroad, and then stamped and notarized in India if needed.
+- **Minors**: Minors cannot issue a PoA as they cannot enter into contracts. Their guardian may act similarly to a PoA holder on their behalf.
+
+### Types of PoA:
+1. **General Power of Attorney (GPA)**:
+   - Grants the attorney broad authority to handle various matters like banking, property management, filing tax returns, etc.
+   - Typically used when the grantor is unable to manage their affairs for a certain period (e.g., due to travel or illness).
+
+2. **Specific or Limited Power of Attorney**:
+   - This grants authority for specific acts or transactions.
+   - Useful when the grantor needs to delegate authority for a single purpose, such as handling real estate matters or banking transactions during their absence.
+
+### Additional Considerations:
+- A certified copy of the PoA, signed by both parties, needs to be submitted to the entity where the PoA will be used.
+- Despite granting a PoA, the grantor retains the right to operate their account.
+- The attorney cannot make or change nominations in the grantor's accounts or investments  .
+
+
+---
+
+
+Derivatives
+
+### 1. **Basics of Derivatives**
+A **derivative** is a financial product that derives its value from an underlying asset like metals (gold, silver), energy resources (oil, coal), agricultural commodities (wheat, coffee), or financial assets (shares, bonds). In the Indian regulatory context, a derivative is classified as a security under the Securities Contracts (Regulation) Act, 1956【22:0†source】【22:4†source】.
+
+### 2. **Types of Derivatives**
+There are four commonly used derivative products:
+
+- **Forwards**: A forward contract is an agreement between two parties to buy or sell an asset at a specified date in the future under pre-decided terms. Forwards are mainly used in commodities, foreign exchange, and interest rate markets. They are over-the-counter (OTC) derivatives and not traded on formal exchanges【22:10†source】.
+  
+- **Futures**: Similar to forwards, futures contracts also allow parties to buy or sell assets at a future date, but they are standardized and traded on exchanges like the National Stock Exchange (NSE)【22:10†source】【22:14†source】.
+
+- **Options**: In an options contract, the buyer has the right, but not the obligation, to buy or sell the underlying asset at a specific price on or before the expiration date. Options include a premium, which is the price paid by the buyer for the right to execute the contract【22:14†source】.
+
+- **Swaps**: Swaps involve the exchange of cash flows between two parties. Interest rate swaps and currency swaps are the most common. For example, in an interest rate swap, one party agrees to pay a fixed interest rate while receiving a floating rate from the other party【22:13†source】.
+
+### 3. **Purpose of Derivatives**
+Derivatives are used for three main purposes:
+
+- **Hedging**: Derivatives are often used to manage risk by protecting investments against future price movements. For instance, a company with exposure to fluctuating currency exchange rates can hedge using currency derivatives【22:10†source】.
+
+- **Speculation**: Speculators trade derivatives based on anticipated future price movements without owning the underlying asset. This strategy can lead to higher profits but also comes with greater risks【22:10†source】.
+
+- **Arbitrage**: Arbitrage involves taking advantage of price differences in different markets. For example, an arbitrageur may buy an asset in one market where it's priced lower and sell it in another market at a higher price【22:7†source】.
+
+### 4. **Derivative Markets**
+Derivatives can be traded in two types of markets:
+
+- **Over-the-Counter (OTC) Markets**: In OTC markets, contracts are made between two parties and are not standardized. These contracts rely on mutual trust between parties and are typically used by institutions comfortable dealing with each other【22:3†source】.
+  
+- **Exchange-Traded Markets**: In these markets, standardized contracts are traded through formal exchanges, with clearinghouses acting as intermediaries. This adds a layer of security and makes the process more transparent【22:3†source】【22:9†source】.
+
+### 5. **Risks and Costs of Derivatives**
+Derivatives are leveraged instruments, meaning a small change in the price of the underlying asset can have a large impact on the derivative's value. They carry several risks:
+- **Counterparty Risk**: The possibility that one party may default on the contract.
+- **Price Risk**: The risk that price movements will result in a loss.
+- **Liquidity Risk**: The inability to exit a position due to a lack of buyers or sellers【22:17†source】.
+
+### 6. **Derivative Strategies**
+Derivative strategies include:
+- **Hedging**: Protecting an existing investment or portfolio from price movements.
+- **Speculation**: Entering into a contract purely for profit from future price changes.
+- **Arbitrage**: Exploiting price differences between markets【22:16†source】【22:17†source】.
+
+### 7. **Example of Pricing a Futures Contract**
+The price of a futures contract is determined by the spot price of the underlying asset plus the cost of carrying the asset until the future date. The cost of carry includes expenses like interest, storage, and insurance【22:18†source】【22:19†source】.
+
+### 8. **Equity, Currency, and Commodity Derivatives**
+- **Equity Derivatives**: Based on stocks or stock indices.
+- **Currency Derivatives**: Manage foreign exchange risks. Examples include forwards, futures, swaps, and options on currency pairs like USD-INR, EUR-USD, and GBP-USD【22:16†source】【22:18†source】.
+- **Commodity Derivatives**: Primarily used for hedging against price volatility in commodities like gold, silver, oil, and agricultural products【22:17†source】.
+
+This comprehensive overview of derivatives from the PDF illustrates their significance as financial instruments for managing risks, speculation, and arbitrage. However, these instruments carry inherent risks and complexities that should be thoroughly understood before trading.
+
+---
+
+P/E Ratio
+
+The P/E ratio is one of the most widely used stock valuation measures by analysts. It is calculated by dividing the stock price by the earnings per share (EPS). For example, if a stock is trading at ₹100 and the EPS is ₹5, the P/E ratio would be 20.
+
+- **Types of P/E Ratios**:
+  - **Historical or trailing P/E**: Calculated by dividing the current market price by the EPS of the last four quarters.
+  - **Forward or leading P/E**: Computed by dividing the current market price by the estimated EPS of the next four quarters .
+
+A P/E ratio tells investors how much they are willing to pay for each rupee of earnings the company generates. For example, a P/E ratio of 10 suggests that investors are willing to invest ₹10 for every ₹1 of earnings.
+
+- **Comparisons**: 
+  The P/E ratio is compared with the market or industry average to determine if a stock is undervalued or overvalued. For instance, if the P/E ratio of a company is 18 while the industry average is 22, the company is considered undervalued.
+
+- **Limitations**: 
+  - Projected P/E ratios are based on estimates, which may not always be accurate.
+  - For companies with negative EPS, the P/E ratio is difficult to interpret  .
+
+### **PEG Ratio (Price/Earnings to Growth Ratio)**
+
+The PEG ratio is an extension of the P/E ratio that accounts for the company's earnings growth. It is calculated by dividing the P/E ratio by the company's earnings growth rate.
+
+**Formula**:
+\[
+\text{PEG Ratio} = \frac{\text{P/E Ratio}}{\text{Earnings Growth Rate}}
+\]
+
+- **Interpretation**:
+  - A **PEG ratio of 1** suggests that the market is valuing the stock in line with its expected earnings growth.
+  - A **PEG ratio less than 1** indicates that the stock may be undervalued given its growth rate.
+  - A **PEG ratio greater than 1** suggests the stock could be overvalued, as the growth rate may not justify its current price.
+
+- **Example**: If a company's P/E ratio is 20, and the growth rate is 10%, the PEG ratio would be 2, indicating the stock may be overvalued.
+
+The effectiveness of the PEG ratio depends heavily on the accuracy of the projected growth rates, and incorrect assumptions can lead to misinterpretation of the stock’s valuation  .
+
+These ratios are key tools in stock valuation, helping investors assess whether a stock is priced appropriately relative to its earnings and growth expectations.
+
+---
+
+
+AIF
+
+The document you uploaded provides a comprehensive overview of Alternative Investment Funds (AIFs) in India. Here's a detailed summary based on the relevant sections:
+
+### 1. **Introduction to Alternative Investments**
+Alternative Investment Funds (AIFs) are privately pooled investment vehicles that collect funds from sophisticated investors, such as institutional investors and high-net-worth individuals (HNIs), for investment as per a defined strategy. AIFs cater to those seeking higher returns than traditional investments like stocks and bonds, typically accepting higher risks for potentially better long-term returns. They complement traditional investments by improving risk-adjusted returns【7:2†source】.
+
+### 2. **Categories of AIFs**
+SEBI (Securities and Exchange Board of India) classifies AIFs into three categories:
+
+- **Category I AIFs**: Invest in economically and socially desirable areas like startups, SMEs, social ventures, and infrastructure. These funds may include venture capital funds (VCF), social venture funds, infrastructure funds, and more. They often receive government incentives due to their focus on sectors critical to societal growth【7:0†source】.
+  
+- **Category II AIFs**: This category covers funds that do not fall under Category I or III, such as private equity or debt funds, without leverage or government concessions. They are used for more traditional private investment strategies【7:0†source】.
+
+- **Category III AIFs**: These funds employ complex strategies, including trading in derivatives, hedge funds, and leverage for short-term gains. They typically focus on generating high returns from active market strategies【7:0†source】.
+
+### 3. **Types of AIFs**
+Under the SEBI regulations, the following types of funds are classified as AIFs:
+
+- **Venture Capital Funds (VCFs)**: Focus on unlisted startups and early-stage companies, typically those working on new technologies or business models【7:0†source】.
+  
+- **Angel Funds**: A subcategory of VCFs that raise funds from angel investors for early-stage investments【7:0†source】.
+  
+- **Private Equity Funds (PE)**: Invest in equity or equity-linked instruments, often in later-stage companies looking for growth【7:0†source】.
+
+- **Debt Funds**: Invest in debt or debt securities of companies. They are an alternative to traditional bank loans, often filling the gap in corporate financing【7:0†source】.
+
+- **Infrastructure Funds**: These AIFs invest in infrastructure projects, typically through long-term equity or debt instruments. They play a critical role in financing India’s growing infrastructure needs【7:8†source】【7:12†source】.
+
+- **SME Funds**: These funds target small and medium enterprises, supporting their growth through equity or debt investments【7:8†source】.
+
+- **Hedge Funds**: Focus on complex trading strategies, including derivatives, aiming for short-term profits. They typically involve higher risks and advanced financial strategies【7:8†source】【7:17†source】.
+
+- **Social Impact Funds**: Invest in social ventures or enterprises that aim to achieve social good alongside financial returns【7:8†source】.
+
+- **Special Situation Funds**: These funds invest in distressed or special situations like turnaround financing or corporate restructuring under insolvency laws
+
+### 4. **SEBI Regulations on AIFs**
+SEBI's 2012 AIF regulations provide a framework for the registration, investment, and operation of AIFs. Key requirements include:
+
+- AIFs must raise funds through private placements, targeting institutional and HNI investors
+  
+- Each scheme of an AIF must have a minimum corpus of ₹20 crore
+
+- AIFs are subject to limits on the percentage of total investable funds that can be allocated to a single investee company (e.g., 25% for Category I and II funds, and 10% for Category III funds)
+
+### 5. **Suitability and Market Status**
+The AIF market in India has grown significantly, with SEBI-registered AIFs increasing from 885 in 2022 to 1088 by March 2023【7:17†source】. These funds are particularly attractive to high-net-worth investors and NRIs who are looking for exposure to India’s dynamic economic environment. AIFs offer a diverse range of investment opportunities, including sectors like real estate, infrastructure, and private equity.
+
+### 6. **Role of AIFs in Portfolio Management**
+AIFs provide investors with alternative avenues to diversify their portfolios. They offer higher returns potential and cater to institutional investors looking for innovative investments beyond traditional equities and bonds. In an increasingly complex global economy, AIFs enable first-mover advantages in emerging industries and markets【7:17†source】.
+
+This summary outlines the key aspects of AIFs, focusing on their types, regulatory framework, and market growth.
+
+
+---
+
+
+### **Scope of financial planning**
+
+- Personal financial analysis
+- Cash flow management and budgeting
+- Insurance Planning
+- Debt management and counselling
+- Investment Planning and Asset Allocation
+- Tax Planning
+- Retirement Planning
+- Estate Planning
+
+## Cheat Sheet
+
+### Formulas
+
+**Present value**
+
+$$
+PV = FV/(1+r)^n
+$$
+
+Where 
+
+FV = Future Value
+
+PV = Present Value
+
+r = rate of return for each compounding period
+
+n = number of compounding periods
+
+In case of a regular cash flow (CF) the present value can be calculated by the following formula
+
+$$
+PV = CF * ( 1 - ( 1 / ( 1 + r )^n )) / r
+$$
+
+---
+
+**Future Value**
+
+$$
+FV = PV (1+r)^n
+$$
+
+Where 
+
+FV = Future Value
+
+PV = Present Value
+
+r = rate of return for each compounding period
+
+n = number of compounding periods
+
+---
+
+**Compound Annual Growth Rate**
+
+$$
+CAGR = (End Value/Beginning Value) ^ (1/n) - 1
+$$
+
+$$
+CAGR = (FV/PV) ^(1/n) - 1
+$$
+
+---
+
+**Rate of Return**
+
+$$
+ROR = ((End Value - Begin Value)/Begin Value) * 100
+$$
+
+---
+
+**Internal Rate of Return**
+
+$$
+IRR = −CF1/(1 + 𝑟)^1 − CF2/(1 + 𝑟)^2 − CFn/(1 + 𝑟)^n + End Value/(1 + 𝑟)^n
+$$
+
+where 
+
+CF = cash flow
+
+n=year
+
+r= rate of return for the year
+
+---
+
+**Geometric Mean Return**
+
+$$
+GMR = (1 + 𝑅𝑡)^1/𝑛− 1
+$$
+
+---
+
+**EMI**
+
+$$
+EMI = P * r * (1+r)^n/((1+r)^n – 1)
+$$
+
+where
+
+E = Equated Monthly Instalment
+
+P = principal amount
+
+r = rate of interest
+
+n = loan term or tenure
+
+### Ratios
+
+**Savings Ratio & Expenses Ratio**
+
+```jsx
+**Savings Ratio = Savings Per Year / Annual Income
+Expense Ratio = 1 - Savings Ratio**
+```
+
+**Leverage Ratio**
+
+```jsx
+**Leverage Ratio = Total Liabilities / Total Assets
+OR
+Leverage Ratio = 1 - Solvency Ratio**
+```
+
+---
+
+**Solvency Ratio**
+
+```jsx
+**Solvency Ratio = Net Worth / Total Assets
+OR
+Solvency Ratio = 1 -  Leverage Ratio**
+```
+
+---
+
+**Liquidity Ratio**
+
+```jsx
+**Liquidity Ratio = Liquid Assets / Monthly Expenses**
+```
+
+---
+
+**PEG Ratio**
+
+```jsx
+PEG = (Price / Earnings Ratio) / EPS Growth
+```
+
+PEG = 1, stock is exactly values
+
+PEG < 1, stock is undervalued
+
+PEG > 1, stock is overvalued
+
+---
+
+**Sharpe Ratio**
+
+```jsx
+S = (Return of the portfolio - Risk free return) / Standard deviation of return on the portfolio
+```
+
+---
+
+**Treynor Ratio**
+
+```jsx
+T = (Return of the portfolio - Risk free return) / Portfolio Beta
+```
+
+**Sortino Ratio**
+
+```jsx
+S = (Return of the portfolio - Risk free return) / Semi Standard deviation of the portfolio
+```
+
+### Excel Functions
+
+| Function |  |
+| --- | --- |
+| PRICE | Function to calculate Price of a bond |
+| YIELD | Function to calculate the yield of periodically coupon paying securities, given the price. |
+
+### Acronyms
+
+| ASBA | An application for subscription to an issue containing an authorization to the investors’ bank to block the application money in the bank account and release funds only on allotment. |
+| --- | --- |
+| CKYCR | Central KYC Records Registry |
+| CERSAI | Central Registry of Securitisation and Asset Reconstruction and Security Interest of India |
+| IPV | In Person Verification |
+| VIPS | Video IPV |
+| ISIN | International Securities Identification Number |
+| DRF | Dematerialisation Request Form |
+| NRE | Non Resident External |
+| NRO | Non Resident Ordinary |
+| FCNR | Foreign Currency Non Resident |
+| FATCA | Foreign Account Tax Compliance Act |
+| PINS | Portfolio Investment NRI Scheme |
+
+## Fixed Income Securities
+
+The issuer of a bond agrees to 1) pay a fixed amount of interest (known as coupon)
+periodically and 2) repay the fixed amount of principal (known as face value) at the date of
+maturity.
+
+### Glossary
+
+| **Macaulay Duration** | the time taken for a bond to repay its own purchase price. |
+| --- | --- |
+| **Money Market Securities** | bonds with a year or less than
+a year maturity are terms as money market securities |
+| **Par Value** | Par is the Face value of a debt instrument which is promised to be paid as Principal at the maturity of the debt instrument. |
+|  |  |
+|  |  |
+|  |  |
+
+### Risks associated with Fixed Income Securities
+
+**Interest Rate Risk**
+
+The price of the bond is inversely related to the interest rate movement. If the interest rate rises, the price of the bond will fall.
+
+---
+
+**Call Risk**
+
+The risk of a bond being prematurely called or repaid by the issuer
+
+---
+
+**Reinvestment Risk**
+
+When the bond issuer calls the bond before maturity, and investor has to reinvest that money for the remaining period lower interest rates. This is called reinvestment risk.
+
+---
+
+**Credit Risk**
+
+the repayment of the principal back to the investor relies heavily on the issuer’s ability to repay that debt
+
+---
+
+**Liquidity Risk**
+
+the risk involved with an instrument that the investor would not be able to sell
+the investment at the time of need.
+
+---
+
+**Exchange Rate Risk**
+
+Bonds issued in foreign currency are exposed to currency risk or exchange rate risk
+
+---
+
+**Inflation Risk**
+
+the risk faced by an investor of inadequacy of funds received from the bond
+investment to fulfil the deferred needs.
+
+## Mutual Funds
+
+### Glossary
+
+| **Term** | Definition |
+| --- | --- |
+| **SEBI** | The Securities and Exchange Board of India (SEBI) is the primary regulator of mutual funds in India. |
+| **AMFI** | The Association of Mutual Funds in India (AMFI) is the industry body that oversees the
+functioning of the industry and recommends best practices to be followed by the industry
+members. |
+| **Sponsor** | A mutual fund is set up by a sponsor. |
+| **AMC** | An asset management company (AMC) is appointed to manage the activities related to launching a scheme, marketing it, collecting funds, investing the funds according to the scheme’s investment objectives and enabling investor transactions. |
+| **Trustee** | Trustees are appointed to take care of the interests of the investors in
+the various schemes launched by the mutual fund |
+| **Distributor** | Mutual Fund distributors are authorised resellers of mutual fund schemes to investors. |
+| **Net Asset** | Value of the portfolio of securities held by a mutual fund. Its calculated everyday |
+| **NAV** | Net Asset Value is calculated as Net assets/Number of outstanding units of the scheme. |
+| **MTM** | The process of valuing the portfolio on a daily basis at current market value is called marking to market.  |
+
+### Mutual Fund Schemes
+
+| **Open Ended Fund** | An open-ended scheme allows investors to invest in additional units and redeem investment continuously at current NAV |
+| --- | --- |
+| **Interval Fund** | Interval funds are a variant of closed end funds which become open-ended during specified periods. |
+| **Close Ended Fund** | A closed-end scheme is for a fixed period or tenor. It offers units to investors only during the new fund offer (NFO). |
+
+### Mutual Fund Products
+
+### **Equity Fund**
+
+Equity funds invest in a portfolio of equity shares and equity related instruments.
+
+| Passive Fund | Passive funds invest the money in the companies represented in an index such as Nifty or
+Sensex in the same proportion as the company’s representation in the index. |
+| --- | --- |
+| Active Fund | Active funds select stocks for the portfolio based on a strategy that is intended to generate higher return than the index.  |
+
+**Market Capitalisation**
+
+| Large Cap Funds | invest in stocks of large, liquid blue-chip companies with stable
+performance and returns. |
+| --- | --- |
+| **Mid Cap Funds** | invest in mid-cap companies that have the potential for faster growth
+and higher returns. |
+| Small Cap funds | invest in companies with small market capitalisation with intent of
+benefitting from the higher gains in the price of stocks. |
+
+### Debt Funds
+
+Debt funds invest in a portfolio of debt instruments such as government bonds, corporate
+bonds and money market securities.
+
+Type of Debt Funds
+
+| **Gilt fund** | invest a minimum of 80% of total assets in government securities such that the Macaulay duration of the portfolio is equal to 10 years. |
+| --- | --- |
+| **Corporate bond fund** | invests at least 80% of total assets in corporate debt instruments with rating of AA+ and above. |
+| **Money Market Fund** | invest in money market instruments having maturity up to one
+year. |
+|  |  |
+
+### Hybrid Funds
+
+Hybrid funds invest in a combination of debt and equity securities.
+
+**Type of Hybrid Funds**
+
+| **Conservative hybrid funds** | invest minimum of 75% to 90% in a debt portfolio and 10% to 25% of total assets in equity and equity-related instruments.  |
+| --- | --- |
+| **Balanced Hybrid Fund** | invests 40% to 60% of the total assets in debt instruments and 40% to 60% in equity and equity related investments. |
+| **Aggressive Hybrid Funds** |  invests 65% to 80% in equity  related investments and 20% to 35% in debt instruments |
+| **Arbitrage funds**  | aim at taking advantage of the price differential between the cash and the derivatives markets. |
+
+### Exchange Traded Funds
+
+ETFs hold a portfolio of securities that replicates an index and are listed and traded on the stock exchange. At least 95% of the total assets should be in securities represented in the index being tracked.
+
+### Systematic Transactions
+
+### Systematic Investment Plans (SIP)
+
+investors commit to invest a fixed sum of money at regular intervals over a period of time in a mutual fund scheme.
+
+An investor enrolling for an SIP has to make the following decisions:
+
+- **The scheme, plan and option:** Mutual funds mention the schemes in which SIPs is
+allowed.
+- **The amount to be invested in each instalment:** The minimum investment for each
+instalment will be specified by the mutual fund. This is usually lower than the
+minimum amount of investment for a lump sum investment.
+- **The periodicity of the investment:** The intervals at which the investment can be
+made, say monthly or quarterly, is defined by the mutual fund. Investors can choose
+the periodicity that is most suitable.
+- **The date of investment each period:** The investor has to choose the dates from
+those specified by the mutual fund.
+- **The tenor of the plan:** The date of commencement of the SIP and the term over
+which the SIP will run has to be selected by the investor. The mutual fund usually
+specifies the minimum commitment period.
+- **The mode of payment:** The payment mode for an SIP can post dated cheques,
+NACH, standing instructions, etc.
+
+### Systematic Withdrawal Plan (SWP)
+
+An SWP enables recurring redemptions from a scheme over a period of time at the applicable NAV on the date of each redemption.
+
+Investors need to specify the following to the mutual fund:
+
+- Mutual fund scheme, plan & option.
+- Amount to be redeemed: The mutual fund will specify the minimum amount that
+can be withdrawn in one instalment.
+- Frequency of withdrawal from the options provided by the mutual fund such as
+monthly, quarterly and so on.
+- Date of redemption for each instalment has to be selected from the options
+provided by the mutual fund.
+- The period or tenor of the SWP over which the redemption will be done. The mutual
+fund may specify a minimum period for the SWP.
+- Date of commencement of the SWP. Mutual funds specify a minimum period before
+the first redemption for the SWP request to be registered with them.
+
+### Investment Modes
+
+**Regular Plan**
+
+The investor can invests in mutual fund through a distributor who charge distribution commission 
+
+**Direct Plan**
+
+The investor can invest directly with the fund house or its Registrar and Transfer agent. There is no distributor who helps the investor to make the investment in this plan.
+
+## Derivative
+
+Derivative is a contract or a product whose value is derived from the value of some other
+asset known as underlying.
+
+### Type of Derivative Products
+
+**Forwards**
+
+Forward contract is an agreement made directly between two parties to buy or sell an asset on a specific date in the future, at the terms decided today.
+
+---
+
+**Futures**
+
+A futures contract is an agreement made through an organized exchange to buy or sell a fixed amount of a commodity or a financial asset on a future date at an agreed price.
+
+---
+
+**Options**
+
+An Option is a contract that gives its buyers the right, but not an obligation, to buy or sell the underlying asset on or before a stated date/day, at a stated price, for a premium (price).
+
+|  | **Call** | **Put** |
+| --- | --- | --- |
+| buyer | has an option to buy at a settlement date or lose options premium | has an option to sell at a settlement date or lose options premium
+ |
+| seller | obliged to sell at a settlement date | obliged to buy at a settlement date  |
+
+| **in-the-money** | **at-the-money** | **out-of-the-money** |
+| --- | --- | --- |
+| Strike price < Market Price | Strike Price = Market Price | Strike Price > Market Price |
+
+## Alternative Investment Funds
+
+Alternative Investment Fund’ (AIF) as one which is primarily a privately pooled investment vehicle
+
+### Type of AIF
+
+| **Venture Capital Fund** | invests primarily in unlisted securities of start-ups |
+| --- | --- |
+| **Angel Fund** | a sub-category of Venture Capital Fund that raises funds from angel investors |
+| **Private Equity Fund** | invests primarily in equity or equity linked instruments or partnership interests of investee companies |
+| **Debt Fund** | invests primarily in debt or debt securities of listed or unlisted
+investee companies |
+| **Infrastructure Fund** | invests primarily in unlisted securities or partnership interest or listed debt or securitised debt instruments of investee companies or Special Purpose Vehicles (SPVs) engaged in or formed for the purpose of operating, developing or holding infrastructure projects |
+| **SME Fund** | invests primarily in unlisted securities of investee companies which are SMEs or securities of those SMEs which are listed or proposed to be listed on a SME exchange or SME segment of an exchange |
+| **Hedge Fund** | employs diverse or complex trading strategies and invests and trades in securities having diverse risks or complex products including listed and unlisted derivatives |
+| Social Impact Fund | invests primarily in securities or units or partnership
+interest of social ventures or securities of social enterprises |
+| Special Situations Fund | invests in special situation assets in accordance with its investment objectives and may act as a resolution applicant under the Insolvency and Bankruptcy Code |
+
+## PAN
+
+Permanent Account Number (PAN) is an identification number issued by the Income Tax
+authorities.
+
+**PAN Exempt**
+
+| Investments upto Rs.50,000 in aggregate under all schemes of a fund house. |
+| --- |
+| Cash investments not exceeding Rs. 50,000 per mutual fund |
+| Insurance premium payments in cash up to Rs. 50,000 per transactions |
+| Cash contributions to the NPS account to the extent of Rs. 50,000 |
+
+## Portfolio Beta
+
+### What is Beta?
+
+**Beta (β)** is a measure of a stock’s volatility in relation to the overall market. It is one of the key concepts in **Modern Portfolio Theory (MPT)** and the **Capital Asset Pricing Model (CAPM)**. Beta helps investors understand how much risk a particular stock (or portfolio) contributes to a diversified portfolio in comparison to the market as a whole.
+
+### Formula for Beta
+
+\[
+\beta = \frac{\text{Covariance} (R_i, R_m)}{\text{Variance}(R_m)}
+\]
+
+Where:
+
+- \(R_i\) is the return of the individual stock or portfolio,
+- \(R_m\) is the return of the market (usually represented by a broad market index like the S&P 500),
+- **Covariance** is a measure of how two variables move together, in this case, the stock and the market,
+- **Variance** is how much the market’s returns deviate from its average return.
+
+### Interpretation of Beta
+
+- **β = 1**: The stock’s price moves in line with the market. If the market goes up or down by 10%, the stock is likely to also increase or decrease by 10%.
+- **β > 1**: The stock is more volatile than the market. For example, if a stock has a beta of 1.5, it is expected to move 1.5 times more than the market. If the market rises by 10%, the stock will likely rise by 15%. However, if the market drops by 10%, the stock may fall by 15%.
+- **β < 1**: The stock is less volatile than the market. A stock with a beta of 0.5 would only move 5% if the market moved 10%. Such stocks are generally considered less risky.
+- **β = 0**: The stock is uncorrelated with the market. Its price movements are independent of the market movements. Cash is often seen as an asset with a beta of 0.
+- **β < 0**: The stock moves in the opposite direction of the market. A negative beta indicates an inverse relationship. For example, if a stock has a beta of -1, it would decrease by 10% if the market rises by 10% and vice versa. This is rare and mostly applies to assets like gold, which can act as a hedge.
+
+### Importance of Beta in Portfolio Management
+
+1. **Risk Assessment**: Beta helps investors assess the risk of a particular stock or portfolio relative to the overall market. Stocks with a high beta are riskier but may offer higher returns, while low-beta stocks are less risky but may provide more stability.
+2. **Diversification**: Investors can use beta to diversify their portfolios. By combining high-beta and low-beta assets, they can balance risk while aiming for optimal returns.
+3. **Expected Return (CAPM)**: Beta is used in the **Capital Asset Pricing Model (CAPM)** to calculate the expected return on an asset. The formula for CAPM is:
+    
+    \[
+    \text{Expected Return} = R_f + \beta (R_m - R_f)
+    \]
+    
+    Where:
+    
+    - \(R_f\) is the risk-free rate,
+    - \(\beta\) is the beta of the security,
+    - \(R_m\) is the expected return of the market.
+
+This helps investors estimate the return they should expect based on the stock’s market risk.
+
+### Example of Beta in Action
+
+- **High-Beta Stock Example**: Technology companies often have higher betas. For example, a tech company with a beta of 1.3 would be more volatile than the market. If the market increases by 10%, the company’s stock could increase by 13%.
+- **Low-Beta Stock Example**: Utility companies tend to have lower betas, such as 0.6. If the market increases by 10%, the stock price might only increase by 6%, showing its lower volatility.
+
+### Limitations of Beta
+
+1. **Historical Data**: Beta is based on past price movements, which may not always predict future volatility accurately.
+2. **Ignores Company-Specific Risk**: Beta only measures market-related risk and does not account for company-specific risks such as poor management or product recalls.
+3. **Assumes Market is Efficient**: Beta is based on the assumption that the market is efficient and the stock prices fully reflect all available information, which may not always be the case.
+
+![Screenshot 2024-09-08 at 11.31.25 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/32ca8784-7b67-49ed-a33f-4d2a8e8e5d98/5856b000-3334-4f70-a9bd-ba6640c21667/Screenshot_2024-09-08_at_11.31.25_AM.png)
+
+![Screenshot 2024-09-08 at 11.28.34 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/32ca8784-7b67-49ed-a33f-4d2a8e8e5d98/6bca33ee-799b-4259-8b46-de6b8e997de0/Screenshot_2024-09-08_at_11.28.34_AM.png)
+
+![Screenshot 2024-09-10 at 8.59.50 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/32ca8784-7b67-49ed-a33f-4d2a8e8e5d98/3168262b-45ca-4aee-94a7-6adaad473112/Screenshot_2024-09-10_at_8.59.50_AM.png)
+
+![Screenshot 2024-09-10 at 9.00.22 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/32ca8784-7b67-49ed-a33f-4d2a8e8e5d98/793d3d51-92b2-42f2-a0de-21559726388e/Screenshot_2024-09-10_at_9.00.22_AM.png)
+
+![Screenshot 2024-09-10 at 9.04.19 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/32ca8784-7b67-49ed-a33f-4d2a8e8e5d98/9feae655-5548-47f5-9cfb-0dd28d3764ab/Screenshot_2024-09-10_at_9.04.19_AM.png)
+
+## Regulations
+
+### Securities Contracts Regulation Act
+
+Act to prevent undesirable transactions in securities
+
+---
+
+### SEBI Act
+
+Provides for the establishment of a Board to protect the interests of investors in securities and to promote the development of, and to regulate, the securities market
+
+---
+
+### Prevention of Fraudulent and Unfair Trade Practices Regulations
+
+Act to prohibit fraudulent, unfair and manipulative trade practices in securities.
+
+---
+
+### SEBI (Intermediaries) Regulations, 2008
+
+Code of Conduct and Ethics for intermediaries
+
+---
+
+### SEBI (Prohibition of Insider Trading) Regulations, 2015
+
+For the purpose of prohibiting insider trading
+
+---
+
+### **SEBI Investment Advisers Regulations, 2013**
+
+Act to regulate the activity of providing investment advisory services in various forms by independent financial advisors, distributors, banks, and other such entities.
+
+---
+
+### **Prevention of Money-Laundering Act, 2002**
+
+Act to prevent money-laundering and to provide for confiscation of property derived from, or involved in, money-laundering and for related matters.
+
+---
+
+### **Foreign Exchange Management Act (FEMA)**
+
+Act to consolidate and amend the law relating to foreign exchange, external trade and payments for promoting the orderly development and maintenance of foreign exchange market in India.
+
+---
+
+### **Indian Contract Act, 1872**
+
+Specifies the general principles for the contracts including the basic prerequisites for a contract to be lawful and the kinds of rights and liabilities that arise due to contracts.
+
+---
+
+### **Guardian and Wards Act, 1890**
+
+Act to protect the minors and to secure their property
+
+---
+
+### **Negotiable Instruments Act, 1881**
+
+Defines and amends the law relating to promissory notes, bills of exchange and cheques.
+
+---
+
+### **Insolvency and Bankruptcy Code, 2016**
+
+Act to consolidate and amend the laws relating to reorganization and insolvency resolution of corporate persons, partnership firms and individuals in a time bound manner.
+
+---
+
+### Consumer Protection Act,
+
+Enacted to provide for better protection of the interests of consumers and for that purpose to make provision for the establishment of consumer councils and other authorities for the settlement of consumer’s disputes and for matters connected therewith.
+
+### SUMS
+
+**Question: Calculate Internal Rate of Return for following**
+
+Rate of return for each year
+
+| **Year** | **Rate of Return** |
+| --- | --- |
+| 2015 | -5% |
+| 2016 | -15.20 |
+| 2017 | 8.10% |
+| 2018 | 30.75% |
+| 2019 | 17.65% |
+
+Cash flow at the end of each year
+
+| Year | Investment Amount in Rs. |
+| --- | --- |
+| 2015 | 5000 |
+| 2016 | 10000 |
+| 2017 | 15000 |
+| 2018 | 20000 |
+| 2019 | 25000 |
+
+**Answer:**
+
+| 
+
+ | Investment
+made at the
+beginning of
+the year in
+Rs.
+
+ | Return
+generated
+during the
+period | Return made
+during the
+period in Rs. | Portfolio
+Value at the
+beginning of
+the period in
+Rs. | Portfolio Value
+at the end of the
+period in Rs. |
+| --- | --- | --- | --- | --- | --- |
+| 2015 | 5000 | -5% | -250 | 5000 | 4750 |
+| 2016 | 10000 | -15.20 | -2242 | 14750 | 12508 |
+| 2017 | 15000 | 8.10% | 2228.15 | 27508 | 29736.15 |
+| 2018 | 20000 | 30.75% | 15293.87 | 49736.15 | 65030.01 |
+| 2019 | 25000 | 17.65% | 15890.3 | 90030.01 | 105920.31 |
+
+$$
+IRR = −10,000/(1 - 0.05)^1 − 15,000/(1 - 15.20)^2 − 20,000/(1 + 8.10)^3 − 25,000/(1 + 30.75)^4 + 105,920.31/(1 + 17.65)^5 = 15.15%
+
+$$
+
+**Question:**
