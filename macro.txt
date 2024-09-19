@@ -1,0 +1,29 @@
+Sub GetDataFromWebService()
+    Dim oSheet As Object
+    Dim oCell As Object
+    Dim url As String
+    Dim oHttp As Object
+    Dim response As String
+    
+    ' Define the URL of the web service
+    url = "https://api.example.com/data"
+
+    ' Get the first sheet in the document
+    oSheet = ThisComponent.Sheets(0)  ' First sheet (0)
+
+    ' Get the cell where the data should be placed (A1)
+    oCell = oSheet.getCellByPosition(0, 0) ' Cell A1 (0,0)
+
+    ' Create the HTTP object
+    oHttp = createUnoService("com.sun.star.xml.sax.InputSource")
+
+    ' Make an HTTP GET request to the URL
+    oHttp = createUnoService("com.sun.star.xml.sax.InputSource")
+    oHttp.Initialize("GET", url, False)
+
+    ' Wait for the response
+    response = oHttp.getResponseHeader("Content")
+
+    ' Place the result in the cell
+    oCell.String = response
+End Sub
